@@ -28,9 +28,9 @@ Student of Systems Engineering at Universidad Autónoma de Aguascalientes. I foc
 
 ### Featured Projects
 
-* **Virtual Assistant**
+* [**Virtual Assistant**](https://github.com/4x3l-MT/AskMe.git)
   * Application designed for task automation and command-line interaction.
-* **Console Pacman** *(In development)*
+* [**Console Pacman** *(In development)*](https://github.com/4x3l-MT/Pacman-.git)
   * Interactive recreation of the classic Pacman game built for terminal execution using structured control logic.
 
 ---
