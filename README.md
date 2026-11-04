@@ -35,16 +35,6 @@ Student of Systems Engineering at Universidad Autónoma de Aguascalientes. I foc
 
 ---
 
-### GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4x3l-MT&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4x3l-MT&layout=compact&theme=dark&hide_progress=true" alt="Top Languages" />
-</p>
-
----
-
 ### Contact
 
 * **Email:** [axelalcala45@gmail.com](mailto:axelalcala45@gmail.com)
