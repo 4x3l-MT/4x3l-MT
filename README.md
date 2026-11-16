@@ -28,9 +28,11 @@ Student of Systems Engineering at Universidad Autónoma de Aguascalientes. I foc
 
 ### Featured Projects
 
-* [**Virtual Assistant**](https://github.com/4x3l-MT/AskMe.git)
+- [**Kora**](https://github.com/4x3l-MT/Kora)
+  * Privacy-first, 100% offline menstrual cycle and biometric health tracker for Android built with Kotlin, Jetpack Compose, MVVM, and native SQLite.
+- [**Virtual Assistant**](https://github.com/4x3l-MT/AskMe)
   * Application designed for task automation and command-line interaction.
-* [**Console Pacman** *(In development)*](https://github.com/4x3l-MT/Pacman-.git)
+- [**Console Pacman** *(In development)*](https://github.com/4x3l-MT/Pacman-)
   * Interactive recreation of the classic Pacman game built for terminal execution using structured control logic.
 
 ---
