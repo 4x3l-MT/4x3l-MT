@@ -34,7 +34,7 @@ Student of Systems Engineering at Universidad Autónoma de Aguascalientes. I foc
   * Application designed for task automation and command-line interaction.
 - [**Console Pacman** *(In development)*](https://github.com/4x3l-MT/console-pacman)
   * Interactive recreation of the classic Pacman game built for terminal execution using structured control logic.
-- [**Xhess**]([https://github.com/4x3l-MT/Pacman-](https://github.com/calebrenasazaren168-prog/Xhess)
+- [**Xhess**](https://github.com/calebrenasazaren168-prog/Xhess)
   * Web application for the professional management of team chess tournaments.
 
 ---
