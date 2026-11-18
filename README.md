@@ -32,8 +32,10 @@ Student of Systems Engineering at Universidad Autónoma de Aguascalientes. I foc
   * Privacy-first, 100% offline menstrual cycle and biometric health tracker for Android built with Kotlin, Jetpack Compose, MVVM, and native SQLite.
 - [**Virtual Assistant**](https://github.com/4x3l-MT/AskMe)
   * Application designed for task automation and command-line interaction.
-- [**Console Pacman** *(In development)*](https://github.com/4x3l-MT/Pacman-)
+- [**Console Pacman** *(In development)*](https://github.com/4x3l-MT/console-pacman)
   * Interactive recreation of the classic Pacman game built for terminal execution using structured control logic.
+- [**Xhess**]([https://github.com/4x3l-MT/Pacman-](https://github.com/calebrenasazaren168-prog/Xhess)
+  * Web application for the professional management of team chess tournaments.
 
 ---
 
